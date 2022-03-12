@@ -300,12 +300,14 @@ margin-top:-40px;
 
     .vibingwithmusic {
       margin-top: 10vw;
-      width: 82%;
+      width: 78%;
       border: 4px rgb(15, 15, 15);
       
     margin-left: auto;
       margin-right: auto;
-      padding: 50px;
+      padding-bottom: 90px;
+      padding-top: 90px;
+      padding-right:90px ;
       
       background-color: rgba(37, 37, 37, 0.51);
       border-radius: 50px;
@@ -353,7 +355,7 @@ margin-top:-40px;
     }
 
 
-    #imgcvibewithmusic{
+     #imgcvibewithmusic{
       display: inline-block;
     }
 
@@ -362,14 +364,19 @@ margin-top:-40px;
       display: inline-block;
       border-radius: 50%;
       font-family: 'roboto';
+      
     }
     #imgcvibewithmusic{
       transition: 0.4s;
+     
+    }
+    .ashima{
+      border-radius: 8%;
     }
 
     #imgcvibewithmusic:hover{
       transform: scale(1.092);
-     }
+     } 
 
 
 
