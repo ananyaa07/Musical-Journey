@@ -20,15 +20,22 @@ body{
     0 0 30px #250423,
     0 0 80px #250423;
   }
+  #imgc{
+    text-align: center;
+  }
+  #imgc2{
+    text-align: center;
+  }
 
   
   .create{
 font-size:4em;
+text-align: center;
 
 color:white;
 background-color:white;
 box-shadow: 8px 8px 5px #444;
-    margin-left: 620px;
+     /* margin-left: 38.75rem;  */
     padding: 20px 80px; 
     text-align:center;
     background-color:rgba(24, 20, 20,0.5);
