@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 30px;
+    overflow: hidden;
+    background: linear-gradient(rgb(20, 20, 20),rgb(151, 151, 146), rgb(243, 239, 239));
+}
+
+canvas{
+    box-shadow: -3px 2px 9px 6px black;
+    cursor: pointer;
+    margin-left: 350px;
+    margin-top: 5px;
+}
+
+.tools {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.tools .color-field {
+    height: 40px;
+    width: 40px;
+    min-height: 40px;
+    min-width: 40px;
+    cursor: pointer;
+    display: inline-block;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 2px solid white;
+    align-self: center;
+    margin: 0 10px;
+
+}
+
+.tools .button{
+    align-self: center;
+    width: 100px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    color: white;
+    background: #222;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.color-picker{
+    align-self: center;
+    margin: 0 10px;
+    height: 50px;
+}
+
+.pen-range {
+    align-self: center;
+    margin: 0 10px;
+}
+
+.encore {
+    color: aliceblue;
+    margin-left: 480px;
+    font-size: 70px;
+    margin-top: 10px;
+}

@@ -1,0 +1,170 @@
+body{
+    background-image: url("Images/STAYCONNECTEDBG.jpeg");
+    background-size: cover;
+    background-position: 60%;
+    background-attachment: fixed;
+    zoom: 70%;
+  }
+  .descrip{
+    color:white;
+    font-size:3em;
+    width:15em;
+    text-align:center;
+   margin-left:800px;
+   /* margin-top:120px; */
+   /* margin-bottom:300px; */
+   margin-bottom:150px;
+  }
+  .LOGOclass{
+    padding-top:0;
+  }
+  .logo{
+    transition: 0.5s;
+    border-radius: 50%;
+    /* display:inline; */
+    position:absolute;
+    margin-left:450px;
+    margin-bottom:300px;
+  }
+  .logo:hover{
+    transform: scale(1.1);
+  }
+ 
+  .not{
+    background-color:black;
+    box-shadow: 8px 8px 5px #444;
+    background-color:rgba(247, 247, 247,0.5);
+    border-radius:20px;
+    margin-top:100px;
+    /* display:inline;  */
+    font-size:3em;
+  }
+  .cannot{
+    background-color:black;
+    box-shadow: 8px 8px 5px #444;
+    background-color:rgba(247, 247, 247,0.5);
+    border-radius:20px;
+    margin-top:100px;
+    /* display:inline;  */
+    font-size:3em;
+  }
+  .big{
+    background-color:white;
+    box-shadow: 8px 8px 5px #444;
+    background-color:rgba(247, 247, 247,0.5);
+    border-radius:20px;
+    margin-top:100px;
+  }
+  .grid{
+    margin-left:200px;
+    margin-top:100px;
+    
+  }
+  .each{
+    border:10px solid;
+ 
+  }
+  .photo{
+    height:350px;
+    width:350px;
+  
+  }
+ .endOne{
+margin-left:150px;
+ }
+ .endTwo{
+  margin-left:170px;
+ }
+ .endThree{
+  margin-left:190px
+ }
+
+ 
+  .start{
+    background-color:black;
+    box-shadow: 8px 8px 5px #444;
+    padding: 14px 18px;
+    font-size:4em;
+    text-align:center;
+    background-color:rgba(247, 247, 247,0.5);
+    border-radius:20px;
+    bottom:100px;
+    margin-top:15px;
+width:20em;
+margin-left:4.2em;
+  }
+ 
+  .connection{
+    background-color:black;
+    box-shadow: 8px 8px 5px #444;
+    background-color:rgba(247, 247, 247,0.5);
+    border-radius:20px;
+    font-size:3em;
+    margin-bottom:2em;
+    margin-top:2em;
+    width:9em;
+    text-align:center;
+    height:2em;
+    margin-left:1300px;
+    padding-top:20px;
+    opacity: 0.9;
+  }
+  .connection:hover{
+      opacity: 1;
+      background-color: rgb(87, 85, 84);
+  }
+  .chat{
+    color:black;
+    box-shadow: 8px 8px 5px #444;
+    /* padding: 14px 18px; */
+    background-color:rgba(247, 247, 247,0.5);
+    border-radius:20px;
+    font-size:3em;
+    margin-bottom:2em;
+    width:9em;
+    text-align:center;
+    height:2em;
+    margin-left:700px;
+    margin-top: 58px;
+    padding-top:20px;
+    opacity: 0.9;
+  }
+  .chat:hover{
+      opacity: 1;
+      background-color: rgb(87, 85, 84);
+     
+  }
+  
+  #logo:hover{
+    box-shadow: 
+    0 0 10px rgb(243, 199, 5),
+    0 0 30px rgb(243,199,5),
+    0 0 80px rgb(243,199,5);
+  }
+ .logo{
+     margin-top: -70px;
+ }
+ .vibetogether1{
+     background-color: rgba(3,3,3,0.66);
+      border-radius: 20px;
+     margin-left: 120px;
+     margin-top: 100px;
+     margin-right: 120px;
+     padding: 7px;
+     
+ }
+
+#vibetogether{
+    font-size: 50px;
+    color: rgb(252, 245, 245);
+    
+/* margin-right: 280px;
+margin-left: 280px; */
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: azure;
+}

@@ -1,0 +1,765 @@
+/*START OF FIRST PAGE*/
+
+
+
+
+body{
+    background-image: url("Images/bgimage.jpg");
+    background-size: cover;
+    background-position: 60%;
+    background-attachment: fixed;
+    zoom: 80%;
+
+  }
+  
+  .First_Heading{
+    background-color:rgb(0,0,0,0.51);
+    width: 15em;
+    
+    box-shadow: 8px 8px 8px rgb(32, 32, 32);
+   
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 25%;
+    margin-top: 140px;
+   
+    border-radius: 40px;
+    padding: 40px;
+
+    
+  }
+  .First_Heading h1:hover{
+    color: #291b28;
+  }
+  .First_Heading h1{
+      color: white;
+      text-align: center;
+      font-size: 40px;
+      text-decoration: none;
+  }
+  #logo{
+    border-radius:100%;
+    transform: scale(1.5);
+    height:100px;
+    width:100px;
+    position:absolute;
+    left:70px;
+    top:50px;
+    transition: 0.4s;
+    
+    
+  }
+  .top_container{
+    background-color:rgb(0,0,0,0.29);
+    padding-top:30px;
+    padding-bottom: 20px;
+
+    margin-left: -10px;
+  margin-right: -10px;
+  margin-top:-40px;
+    
+    
+    
+}
+
+   
+   
+  
+  
+  .welcome{
+    color:white;
+    text-align: center;
+    font-size:60px;
+    padding:-20px;
+    
+  }
+  
+  .intro_button{
+      
+          background: #423f42;
+          background-image: -webkit-linear-gradient(top, #423f42, #9837ab);
+          background-image: -moz-linear-gradient(top, #423f42, #9837ab);
+          background-image: -ms-linear-gradient(top, #423f42, #9837ab);
+          background-image: -o-linear-gradient(top, #423f42, #9837ab);
+          background-image: linear-gradient(to bottom, #423f42, #9837ab);
+          -webkit-border-radius: 13;
+          -moz-border-radius: 13;
+          border-radius: 13px;
+          text-shadow: 3px 1px 3px #630f63;
+          -webkit-box-shadow: 2px 2px 7px #080408;
+          -moz-box-shadow: 2px 2px 7px #080408;
+          box-shadow: 2px 2px 7px #080408;
+          font-family: Georgia;
+          color: #fFFFFF;
+          font-size: 24px;
+          padding: 13px 22px 13px 22px;
+          text-decoration: none;
+          opacity:100%;
+          text-align: center;
+         
+          
+          
+        }
+        
+        .intro_button:hover {
+          background: #8a679e;
+          text-decoration: none;
+        
+  }
+  .buttons{
+    text-align: center;
+    margin-top:-40px;
+   
+  }
+
+  .lined{
+    
+    text-align:center;
+  }
+  #line{
+    width: 80%;
+    height:21em;
+    
+}
+
+/*END OF FIRST PAGE*/
+
+
+
+
+
+
+  
+   
+    
+
+
+ /*START OF SECOND PAGE*/
+
+
+  .row {
+    display: flex;
+    margin: 1px 1px;
+    
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 20px;
+    margin: 1px 69px 30px 60px;
+    height: 630px;
+  }
+
+ .column img {
+border-radius: 30pt;
+margin-top: 30px;
+width: 24%;
+opacity: 0.99;
+height: 95%;
+
+  }
+
+  
+
+    
+    .column:hover {
+      -ms-transform: scale(1.05); /* IE 9 */
+      -webkit-transform: scale(1.05); /* Safari 3-8 */
+      transform: scale(1.05); 
+    }
+      #g:hover{
+        box-shadow: 
+        0 0 10px #3d0586,
+        0 0 30px #410341,
+        0 0 80px #0c0c0c;
+       
+        
+    }
+    #r:hover{
+      box-shadow: 
+      0 0 10px #3d0586,
+      0 0 30px #410341,
+      0 0 80px #0c0c0c;
+     }
+    #h:hover{
+        box-shadow: 
+        
+        0 0 10px #3d0586,
+        0 0 30px #410341,
+        0 0 80px #0c0c0c;}
+
+
+        /*END OF SECOND PAGE*/
+
+
+
+     
+      /* START OF THIRD PAGE */
+        .helloo {
+    
+          width: 71%;
+          border: 4px rgb(15, 15, 15);
+          
+          margin-left: auto;
+          margin-right: auto;
+          margin-top:70px ;
+          margin-bottom: 70px;
+          background-color: rgba(3, 3, 3, 0.51);
+          border-radius: 50px;
+         box-shadow: 2px 2px 2px 2px rgb(24, 3, 24);
+          padding: -20px 0px;
+        }
+      .helloo h1{
+        color: white;
+      font-size: 80px;
+      margin-left: 500px;
+      text-align: center;
+      
+      
+      }
+      
+      
+      .helloo h2{
+        color: white;
+        font-family: 'roboto';
+        ;
+        font-size: 30px;
+        margin-left: 630px;}
+      
+       #imgg2{
+         position: absolute;
+         transform: scale(0.92);
+         border-radius: 50%;
+         margin: -610px 250px;
+        
+       }
+      /* END OF THIRD PAGE*/
+
+
+      
+      
+
+
+       /* START OF FOURTH PAGE */
+
+      .logos{
+        text-align: center;
+      }
+      .page_heading{
+        background-color: rgba(3, 3, 3, 0.61);
+        padding-top:30px;
+        padding-bottom: 80px;
+        color: white;
+      
+        margin-left: -10px;
+        margin-right: -10px;
+        margin-top: -10px;
+      
+        text-align: center;
+        font-size: larger;
+        font-size: 78px;
+      }
+      
+      .rowpage{
+        display:flex;
+        
+        
+      }
+      .columnpage {
+        flex: 33.33%;
+        padding: 20px;
+        margin: 45px;
+        margin-top: 10px;
+        
+        
+      }
+      
+      .columnpage img {
+      border-radius: 50%;
+      margin-top: -15px;
+      padding: -10px;
+      opacity: 0.99;
+      
+      
+      
+      
+      
+      }
+      .bottom{
+        background-color: rgba(3, 3, 3, 0.61);
+        padding-top:30px;
+        padding-bottom: 20px;
+      
+        margin-left: -10px;
+        margin-right: -10px;
+        margin-top: 60px;
+      
+        text-align: center;
+        font-size: 42px;
+        color: white;
+      }
+
+     
+      
+      .sakshi{
+        
+       transition: 0.5s;
+       border-radius: 50%;
+       }
+       .sakshi:hover{
+        transform: scale(1.1);
+        border-radius: 50%;
+       }
+    .sakshi:hover {
+      box-shadow: 
+       0 0 10px #9b9996,
+       0 0 30px #e8e8ec,
+       0 0 60px  rgb(252, 248, 248);
+    }
+
+      /* END OF FOURTH PAGE */
+
+      /* START OF FIFTH PAGE */
+
+
+      .vibingwithmusic {
+    
+        width: 68%;
+        border: 4px rgb(15, 15, 15);
+        
+      margin-left: auto;
+        margin-right: auto;
+        padding: 1px;
+        
+        background-color: rgba(37, 37, 37, 0.51);
+        border-radius: 50px;
+       
+        
+      }
+    .vibingwithmusic h1{
+      color: white;
+    font-size: 69px;
+    margin-left: 510px;
+    text-align: center;
+    
+    
+    }
+    
+    
+    .vibingwithmusic h2{
+      color: white;
+      font-family: 'roboto';
+      ;
+      font-size: 28px;
+      margin-left: 545px;
+    text-align: center;}
+    
+     #img3{
+       position: absolute;
+       width: 369px;
+       height: 428px;
+       transform: scale(1.35);
+       border-radius: 10%;
+       margin: -503px 314px;
+       opacity: 0.9;
+      
+       
+      
+     }
+     
+       #img3{
+      transition: 0.4s;
+      /* border-radius: 50%; */
+      }
+
+      #img3:hover{
+       transform: scale(1.092);
+      }
+
+
+
+     /* END OF FIFTH PAGE */
+
+     
+/* START OF SIXTH PAEGE */
+     
+.buttonpage6{
+  background: #423f42;
+  background-image: -webkit-linear-gradient(top, #423f42, #9837ab);
+  background-image: -moz-linear-gradient(top, #423f42, #9837ab);
+  background-image: -ms-linear-gradient(top, #423f42, #9837ab);
+  background-image: -o-linear-gradient(top, #423f42, #9837ab);
+  background-image: linear-gradient(to bottom, #423f42, #9837ab);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  text-shadow: 3px 1px 3px #630f63;
+  -webkit-box-shadow: 2px 2px 7px #080408;
+  -moz-box-shadow: 2px 2px 7px #080408;
+  box-shadow: 2px 2px 7px #080408;
+  font-family: Georgia;
+  color: #fFFFFF;
+  font-size: 24px;
+  padding: 13px 22px 13px 22px;
+  text-decoration: none;
+
+}
+.account{
+  background-color:white;
+  /* border: 1px solid #333; */
+  box-shadow: 8px 8px 5px #444;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35em;
+  padding: 1px 10px ;
+  /* background-image: linear-gradient(180deg, #fff, white 40%, white); */
+  text-align:center;
+  background-color:rgba(247, 247, 247,0.5);
+  margin-top:100px;
+  margin-bottom:100px;
+  border-radius:10%;
+  height:52em;
+}
+
+
+.createAccount{
+  font-size:55px;
+}
+.write{
+  font-size:40px;
+}
+.write2{
+  font-size:25px;
+}
+/* 9837ab */
+.buttonopage6:hover {
+  background: #8a679e;
+  text-decoration: none;
+
+}
+
+  
+  
+    
+  
+     /*  */
+
+
+     /* SEVENTH PAGE START */
+
+     .buttonpage7{
+      background: #423f42;
+      background-image: -webkit-linear-gradient(top, #423f42, #9837ab);
+      background-image: -moz-linear-gradient(top, #423f42, #9837ab);
+      background-image: -ms-linear-gradient(top, #423f42, #9837ab);
+      background-image: -o-linear-gradient(top, #423f42, #9837ab);
+      background-image: linear-gradient(to bottom, #423f42, #9837ab);
+      -webkit-border-radius: 13;
+      -moz-border-radius: 13;
+      border-radius: 13px;
+      text-shadow: 3px 1px 3px #630f63;
+      -webkit-box-shadow: 2px 2px 7px #080408;
+      -moz-box-shadow: 2px 2px 7px #080408;
+      box-shadow: 2px 2px 7px #080408;
+      font-family: Georgia;
+      color: #fFFFFF;
+      font-size: 24px;
+      padding: 13px 22px 13px 22px;
+      text-decoration: none;
+  
+  }
+
+  .SIGNUP{
+height: 60px;
+width: 340px;
+font-size: 30px;
+  }
+  .account2{
+      background-color:white;
+      /* border: 1px solid #333; */
+      box-shadow: 8px 8px 5px #444;
+      margin-left: auto;
+      margin-right: auto;
+      width: 35em;
+      padding: 8px 12px;
+      /* background-image: linear-gradient(180deg, #fff, white 40%, white); */
+      text-align:center;
+      background-color:rgba(247, 247, 247,0.5);
+      margin-top:100px;
+      margin-bottom:100px;
+      border-radius:10%;
+      height:48em;
+  }
+  
+ 
+  .createAccount2{
+      font-size:55px;
+  }
+  .write3{
+      font-size:40px;
+  }
+  .write2:hover{
+    color: grey;
+  }
+  .write4{
+      font-size:25px;
+  }
+  .write4:hover{
+    color: grey;
+  }
+  /* 9837ab */
+  .buttonoage7:hover {
+      background: #8a679e;
+      text-decoration: none;
+    
+  }
+
+  /* PAGE 7 ENDS */
+
+
+
+
+  /* PAGE 8 STARTS */
+
+  section{
+    min-height:100vh;
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    
+    
+    }
+    
+    
+    
+    .container{
+    width:90%;
+    max-width:1000px;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    }
+    
+    .left{width:1500px;
+    height:550px;
+    background-color: rgb(255, 255, 255,0.68);
+    display:flex;
+    
+    margin-right:-100px;
+    border-radius:35px;
+    
+    
+    
+    }
+    
+    .right2{
+    width:1500px;
+    height:550px;
+    background-color:rgb(255, 255, 255,0.68);
+    margin-bottom:-150px;
+    margin-left:-700px;
+    border-radius:35px;
+    text-align:center;
+    color:rgb(128, 101, 15);
+    
+    
+    
+    
+    }
+    
+    
+    
+    #imge2{
+    position: absolute;
+    transform: scale(0.70);
+    border-radius: 16%;
+    
+    margin: -558px -500px;
+    height:670px;
+    width:472px;
+    transition: 0.3s;
+    }
+    #imge2:hover{
+    
+     
+      
+      box-shadow: 0 0 10px rgb(177, 176, 176),
+      0 0 30px rgb(104, 102, 102),
+      0 0 80px rgb(44, 43, 43) ;
+    }
+    
+    .hellopage8 h1{
+        font-size: 50px;
+        margin-left: 310px;
+    }
+    
+    .hellopage8 h2{
+        margin-left: 350px;
+        font-size: 28px;
+        font-family: 'roboto';
+        
+    }
+    
+  /* PAGE 8 ENDS */
+
+
+
+
+
+  /* PAGE 9TH STARTS */
+  #hello3{
+    width: 28%;
+   padding: 21px;
+   color: rgb(29, 28, 28);
+   font-size: 54px;
+   font-family: 'roboto',sans-serif;
+   
+   text-align: center;
+    
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 29px;
+    background-color: rgba(241, 236, 236, 0.31);
+    box-shadow: 2px 3px 2px 3px rgb(40, 1, 77);
+    border-radius: 39px;
+   
+    
+  
+}
+#img4{
+    position: absolute;
+    width: 370px;
+    height: 519px;
+    
+    border-radius: 10%;
+    margin: -519px 873px;
+    opacity: 0.85;
+   
+  }
+  .hello4 {
+    width: 59%;
+    border: 4px rgb(15, 15, 15);
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:32px ;
+    
+    background-color: rgba(174, 161, 161, 0.61);
+    box-shadow: 2px 3px 2px 3px rgb(40, 1, 77);
+    border-radius: 50px;
+   
+    padding: 
+    55px 0px;
+  }
+
+  .hello4 h2{
+      margin-right:406px;
+      font-size: 30px;
+      text-align: center;
+      font-family: 'roboto';
+
+      
+  }
+
+  /* PAGE 9TH ENDS */
+
+
+
+  /* 10TH PAGE STARTS */
+
+  /* .mainpage10 {
+    font-family: Arial;
+    margin-right: 480px; 
+    max-width: 800px; /* Max width */
+    /* padding: 20px;
+  }
+  *{
+    box-sizing: border-box;
+  } */ 
+
+
+  .page_heading2 {
+    width: 50%;
+    border: 2px rgb(15, 15, 15);
+    background-color: rgba(236, 230, 234, 0.561);
+    border-radius: 0;
+    margin-left: 409px;
+    margin-right: auto;
+    margin-top: -100px;
+    padding: 1px;
+  }
+
+  .page_heading2 h1{
+      color: black;
+      font-size: 40px;
+      text-align: center;
+
+      
+  }
+ 
+  
+ .reviews{
+   position: absolute;
+  transform: scale(0.65);
+  margin-left: 200px;
+  margin-top: -100px;
+ }
+  .mainpage10{
+margin-bottom: 200px;
+  }
+  
+  /* margin-left: 200px;
+  margin-top: -125px; */
+
+ 
+/* 
+  .textareas {
+     
+     
+     
+  }
+  input[type=submit] {
+    width: 200px;  height: 60px;
+    background-color: rgba(30, 29, 31, 0.81);
+    color: white;
+    font-size: 30px;
+}
+  
+
+  .submit {
+    
+     position: absolute; 
+     margin-left: 800px;
+     margin-top: 60px;
+  } */
+
+/* 10TH PAGE ENDS */
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+
+  
+
+
+
+
+     
+
+
+
+
+
+
+
+  
+
+  

@@ -1,0 +1,141 @@
+body{
+    background-image: url("Images/antaksharibg.jpeg");
+    background-size: cover;
+    background-position: 60%;
+    background-attachment: fixed;
+    zoom: 70%;
+    
+  }
+  .AntakONE{
+      border-radius:100%;
+     width:35em;
+     margin-left:41em;
+     margin-top:15px;
+     transition: 0.4s;
+  }
+  .AntakONE:hover{
+    transform: scale(1.1);
+    box-shadow: 
+    0 0 10px #250423,
+    0 0 30px #250423,
+    0 0 80px #250423;
+  }
+
+  
+  .create{
+font-size:4em;
+
+color:white;
+background-color:white;
+box-shadow: 8px 8px 5px #444;
+    margin-left: 620px;
+    padding: 20px 80px; 
+    text-align:center;
+    background-color:rgba(24, 20, 20,0.5);
+    margin-top:50px;
+    border-radius:20px;
+    display:inline-block;
+  
+  
+    opacity:0.8;}
+  
+  .create:hover{
+    opacity:1;
+  }
+
+    
+  
+  .AntakFinal{
+    font-size:4em;
+    color:black;
+    width:15em;
+    text-align:center;
+    padding-left:490px;
+  }
+  .FinalKHTM{
+    height:500px;
+    width:500px;
+   margin-left:-70px;
+   transition: 0.5s;
+   border-radius: 50%;
+  }
+  .FinalKHTM:hover{
+    transform: scale(1.1);
+  }
+  #FinalKHTM:hover{
+    box-shadow: 
+    0 0 10px #250423,
+    0 0 30px #250423,
+    0 0 80px #250423;
+  }
+  .FinalImage{
+    margin-left:780px;
+  }
+
+
+
+
+  section{
+    min-height:100vh;
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    
+    
+    }
+    
+    
+    
+    .container{
+    width:90%;
+    max-width:1000px;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    }
+    
+    .left{width:1700px;
+    height:600px;
+    background-color: rgba(0,0,0,0.39);
+    display:flex;
+    
+    margin-right:-100px;
+    border-radius:35px;
+    
+    
+    
+    }
+    
+    .right2{
+    width:1700px;
+    height:600px;
+    background-color:rgba(0,0,0,0.39);
+    margin-bottom:-150px;
+    margin-left:-700px;
+    border-radius:35px;
+    text-align:center;
+    color:white;
+    
+    
+    
+    
+    }
+
+    .antaksharipage h1{
+      font-size: 60px;
+     
+      text-align:center;
+      padding-right:40px;
+  }
+  
+  .antaksharipage h2{
+     
+      font-size: 40px;
+      text-align: center;
+      padding-right:120px;
+      padding-left:30px;
+    
+      
+  }

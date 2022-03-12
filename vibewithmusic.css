@@ -1,0 +1,81 @@
+body{
+    background-image: url("Images/sunset.jpg");
+    background-size: cover;
+    background-position: 60%;
+    background-attachment: fixed;
+    zoom: 70%;
+    
+  }
+  .vwm{
+    color:white;
+    font-size:5em; 
+    text-align:center;
+    margin-top:0;
+  }
+.one{
+    height:120px;
+    width:800px;
+    margin-left:980px;
+    font-size:3em;
+   color:white;
+   text-align:center;
+}
+.vwmLOGO{
+    margin-left:1190px;
+    margin-top: -20px;
+    
+    
+}
+.imageLOGO{
+    height:452px;
+    width:452px;
+   margin-left:-70px;
+   transition: 0.5s;
+   border-radius: 50%;
+   }
+   .imageLOGO:hover{
+    transform: scale(1.1);
+   }
+.two{
+    height:200px;
+    width:800px;
+    font-size:2.5em;
+    margin-left:980px;
+    color:white;
+    margin-top:390px;
+    text-align:center;
+}
+.enjoy{
+    text-align:center;
+}
+.three{
+    color:white;
+    text-align:center;
+    font-size:4em;
+    width:700px;
+    margin-left: 1010px;
+    margin-top: -60px;
+    /* padding-left: 500px; */
+}
+#imageLOGO:hover{
+    box-shadow: 
+   0 0 10px #FFB72B,
+   0 0 30px #FFB72B,
+   0 0 80px #FFB72B;
+}
+
+.button_0{
+    margin-left: 1270px;
+    width: 200px;
+    height: 90px;
+    margin-top: -160px;
+    font-size: 25px;
+    transition: 0.5s;
+    border-radius: 12%;
+    
+}
+
+.button_0:hover{
+    transform: scale(1.1);
+
+}
