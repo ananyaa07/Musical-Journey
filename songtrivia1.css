@@ -1,87 +1,87 @@
 body{
-    background-image: url("Images/songtrivia.JPG");
-    background-size: cover;
-    background-position: 60%;
-    background-attachment: fixed;
-    zoom: 70%;
-    
+  background-image: url("Images/songtrivia.JPG");
+  background-size: cover;
+  background-position: 60%;
+  background-attachment: fixed;
+  zoom: 70%;
+  
 
-  }
+}
 
-  .imagee{
-    transition: 0.5s;
-    border-radius: 50%;
-    margin-right: 650px;
-    margin-top: 60px;
-    
-   }
-   .imagee:hover{
-     transform: scale(1.1);
-   }
-   #imagee:hover{
-     box-shadow: 
-     0 0 10px rgb(245, 244, 244),
-     0 0 30px rgb(247, 244, 244),
-     0 0 80px rgb(248, 246, 246);
-   } 
-   
-   .button_one{
-   position: absolute;
+.cont{
   text-align: center;
-  color: rgb(20, 20, 20);
-  font-size: 70px;
-  border-radius: 30px;
-  background-color: rgb(248, 241, 246,0.51); 
-  margin-left: 680px;
-  margin-top: 680px;
-  opacity: 0.8;
-  padding: 12px;
+}
+
+.imagee{
+  transition: 0.5s;
+  border-radius: 50%;
+  margin-top: 60px;
   
-  } 
-  .button_one:hover{
-    opacity:1;
-  }
-  
-  
+ }
+ .imagee:hover{
+   transform: scale(1.1);
+ }
+ #imagee:hover{
+   box-shadow: 
+   0 0 10px rgb(245, 244, 244),
+   0 0 30px rgb(247, 244, 244),
+   0 0 80px rgb(248, 246, 246);
+ } 
+ 
+ .button_one{
+text-align: center;
+color: rgb(20, 20, 20);
+font-size: 70px;
+border-radius: 30px;
+background-color: rgb(248, 241, 246,0.51); 
+opacity: 0.8;
+padding: 12px;
+margin-top: 10vw;
+} 
+.button_one:hover{
+  opacity:1;
+}
 
-   .headingg{
-  margin-top: 19em;
-  margin-left: 8em;
-  color: white;
-  font-size: 50px;
-   }
 
-   .textt{
-    margin-left: 230px;
-    margin-right: 295px;
-     text-align: center;
-     color: white;
-     font-size: 35px;
-   }
 
-   .text1{
-     color: white;
-     font-size: 58px;
-     margin-left: 350px;
-     margin-top: 300px;
-     margin-bottom: 300px;
-   }
+ .headingg{
+margin-top: 10em;
+margin-left: 8em;
+color: white;
+font-size: 50px;
+ }
 
-   .end1{
-     position: absolute;
-    margin-right: 30px;
-    margin-left: 1270px;
-    margin-top: -700px;
-    width: 400px;
-    height: 400px;
-    transition: 0.3s;
-     
-   }
+ .textt{
+  margin-left: 230px;
+  margin-right: 295px;
+   text-align: center;
+   color: white;
+   font-size: 35px;
+ }
 
-   #image_1:hover{
-     transform: scale(1.1);
-     box-shadow:  0 10px rgb(245, 244, 244),
-     0 0 30px rgb(247, 244, 244),
-     0 0 80px rgb(248, 246, 246);
-     border-radius: 50%;
-   }
+ .text1{
+   color: white;
+   font-size: 58px;
+   margin-left: 350px;
+   margin-top: 300px;
+   margin-bottom: 300px;
+ }
+
+ .end1{
+   position: absolute;
+  margin-right: 30px;
+  margin-left: 1270px;
+  margin-top: -700px;
+  width: 400px;
+  height: 400px;
+  transition: 0.3s;
+   
+ }
+
+ #image_1:hover{
+   transform: scale(1.1);
+   box-shadow:  0 10px rgb(245, 244, 244),
+   0 0 30px rgb(247, 244, 244),
+   0 0 80px rgb(248, 246, 246);
+   border-radius: 50%;
+ }

@@ -294,6 +294,7 @@ margin-top:-40px;
 
     /* END OF FOURTH PAGE */
 
+
     /* START OF FIFTH PAGE */
 
 
@@ -350,6 +351,26 @@ margin-top:-40px;
     #img3:hover{
      transform: scale(1.092);
     }
+
+
+    #imgcvibewithmusic{
+      display: inline-block;
+    }
+
+    #imgcvibingwithmusic img{
+      width: 30vw;
+      display: inline-block;
+      border-radius: 50%;
+      font-family: 'roboto';
+    }
+    #imgcvibewithmusic{
+      transition: 0.4s;
+    }
+
+    #imgcvibewithmusic:hover{
+      transform: scale(1.092);
+     }
+
 
 
 
